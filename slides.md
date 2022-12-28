@@ -19,7 +19,7 @@ css: unocss
 
 # Welcome to Slidev
 
-Presentation slides for developers
+Presentation slides for developers from another branch
 
 ---
 
